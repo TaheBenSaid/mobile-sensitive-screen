@@ -1,0 +1,16 @@
+.DS_Store
+.idea/
+.vscode/
+*.iml
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.env
+.env.*
+*.jks
+*.keystore
+key.properties
+local.properties
+Pods/
+.gradle/
