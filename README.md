@@ -1,5 +1,7 @@
 # mobile-sensitive-screen
 
+_By [Tahe Ben Said](https://tahebensaid.dev), senior mobile engineer. More apps and tools at [tahebensaid.dev](https://tahebensaid.dev)._
+
 Your app shows a card number, an IBAN, a balance or a one-time code. The user's
 phone then puts that screen in three places they never asked for: the app
 switcher, a screenshot that syncs to their cloud photos, and a screen recording
